@@ -21,7 +21,7 @@
 
     São arquivos markdown (MD) editáveis para salvar suas respostas durante os estudos. Entre cada atividade existem espaços reservados para as respostas:
 
-    ![Exemplo do arquivo editável](img/todo_example.png)
+    ![Exemplo do arquivo editável](img/todo_example.png "Exemplo do arquivo editável")
 
 <br>
 
@@ -29,4 +29,4 @@
 
     São arquivos PDF para facilitar a leitura e compartilhamento das atividades. Não há espaço entre os enunciados de cada atividade:
 
-    ![Exemplo do arquivo PDF](img/toprint_example.png)
+    ![Exemplo do arquivo PDF](img/toprint_example.png "Exemplo do arquivo PDF")
